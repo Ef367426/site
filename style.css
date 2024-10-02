@@ -1,0 +1,91 @@
+body
+{
+    background-image: url(https://img.freepik.com/vetores-gratis/formas-geometricas-gradientes-em-fundo-escuro_23-2148428910.jpg)
+}
+#vd
+{
+    margin-left: 25%;
+    width: 55%;
+    margin-top: 30px;
+}
+
+div
+{
+    margin: 0px 200px 0px 200px;
+    background-color: aliceblue;
+}
+
+.cb
+{
+ text-align: center;
+ margin: 0px 500px 0px 500px;
+ margin-left: 530px;
+ display: inline;
+}
+h2
+{
+    margin-top: -25px;
+    font-size: 15px;
+}
+
+#ttl
+{
+    margin: 0%;
+}
+
+article
+{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+ul
+{
+    text-align: center;
+    margin-right: 50px;
+    
+    
+}
+li
+{
+    display: inline;
+    background-color: rgb(10, 1, 2);
+    padding: 4px;
+    color: aliceblue;
+    border-radius: 6px 0px 6px 0px;
+    
+    
+}
+
+li:hover
+{
+    color: rgb(12, 24, 190);
+}
+
+.vd
+{
+    margin-left: 190px;
+}
+
+.fnd
+{
+    margin: 0 170 0 170;
+    background-color: rgb(187, 187, 255);
+}
+
+.tg
+{
+    margin-top: -15px;
+}
+
+.txt01
+{
+    padding: 0 0 3px 0;
+}
+
+.ul
+{
+    padding: 5px 0 0 0;
+}
+
